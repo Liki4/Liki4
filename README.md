@@ -16,18 +16,18 @@
 
 ### Some Fun Stuff :p
 
-- **[qnap-openlist-webdav](https://github.com/Liki4/qnap-openlist-webdav)** — OpenList packages for QNAP NAS, with multi-storage file browsing and WebDAV access.
-- **[CarAdb](https://github.com/Liki4/CarAdb)** — Rootless remote ADB access to Android head units through a userspace WireGuard bridge.
-- **[VeloVerse](https://github.com/Liki4/VeloVerse)** — Indoor cycling with BLE trainer control, route-based resistance, FIT export, and uploads to Strava and Intervals.icu.
-- **[subconverter-rs](https://github.com/Liki4/subconverter-rs)** — A Rust port of subconverter for converting proxy subscription formats.
-- **[go-telegram-forwarder-bot](https://github.com/Liki4/go-telegram-forwarder-bot)** — A Go-based Telegram bot system for managing multiple bots and forwarding messages in both directions.
-- **[statuspage-telegram-monitor](https://github.com/Liki4/statuspage-telegram-monitor)** — A Cloudflare Worker that turns Atlassian Statuspage webhooks into Chinese Telegram alerts.
-- **[igpsport_to_intervals_icu](https://github.com/Liki4/igpsport_to_intervals_icu)** — Syncs original FIT files from iGPSPORT to Intervals.icu, preserving advanced cycling metrics.
-- **[keep_virtual_ride_to_strava](https://github.com/Liki4/keep_virtual_ride_to_strava)** — Converts Keep indoor cycling workouts into FIT files and automatically uploads them to Strava.
-- **[qodercli2api](https://github.com/Liki4/qodercli2api)** — An unofficial local proxy exposing Qoder CLI inference through OpenAI- and Anthropic-compatible APIs.
-- **[y01and3/termius-export](https://github.com/y01and3/termius-export)** — Exports Termius data offline to OpenSSH, Tabby, Termix, CSV, and JSON, including hosts, SSH keys, port forwards, and proxies.
-- **[KennelROMs/MartiniEvoX](https://github.com/KennelROMs/MartiniEvoX)** — Build manifests, patches, and tooling for Evolution X on the OnePlus 9RT (martini).
-- **[lxtsuddy/verify-code-relay](https://github.com/lxtsuddy/verify-code-relay)** — A self-hosted service that forwards verification codes and sign-in links from IMAP mailboxes to Telegram.
+- **[qnap-openlist-webdav](https://github.com/Liki4/qnap-openlist-webdav)** — OpenList packages for QNAP NAS.
+- **[CarAdb](https://github.com/Liki4/CarAdb)** — Rootless ADB over WireGuard for Android head units.
+- **[VeloVerse](https://github.com/Liki4/VeloVerse)** — Indoor cycling with route simulation and ride sync.
+- **[subconverter-rs](https://github.com/Liki4/subconverter-rs)** — Proxy subscription converter, rewritten in Rust.
+- **[go-telegram-forwarder-bot](https://github.com/Liki4/go-telegram-forwarder-bot)** — Multi-bot, two-way message forwarding for Telegram.
+- **[statuspage-telegram-monitor](https://github.com/Liki4/statuspage-telegram-monitor)** — Statuspage alerts to Telegram via Cloudflare Workers.
+- **[igpsport_to_intervals_icu](https://github.com/Liki4/igpsport_to_intervals_icu)** — Sync original iGPSPORT FIT files to Intervals.icu.
+- **[keep_virtual_ride_to_strava](https://github.com/Liki4/keep_virtual_ride_to_strava)** — Sync Keep indoor cycling workouts to Strava.
+- **[qodercli2api](https://github.com/Liki4/qodercli2api)** — Qoder CLI via OpenAI / Anthropic-compatible APIs.
+- **[y01and3/termius-export](https://github.com/y01and3/termius-export)** — Offline Termius export to OpenSSH, Tabby, and more.
+- **[KennelROMs/MartiniEvoX](https://github.com/KennelROMs/MartiniEvoX)** — Evolution X build tools for OnePlus 9RT (martini).
+- **[lxtsuddy/verify-code-relay](https://github.com/lxtsuddy/verify-code-relay)** — Forward email codes and sign-in links to Telegram.
 
 <details>
 
