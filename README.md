@@ -12,23 +12,6 @@
 - [Vidar-Team](https://github.com/orgs/vidar-team/)
 - [D^3CTF](https://github.com/D-3CTF)
 
-<br clear="both" />
-
-### Some Fun Stuff :p
-
-- **[qnap-openlist-webdav](https://github.com/Liki4/qnap-openlist-webdav)** — OpenList packages for QNAP NAS.
-- **[CarAdb](https://github.com/Liki4/CarAdb)** — Rootless ADB over WireGuard for Android head units.
-- **[VeloVerse](https://github.com/Liki4/VeloVerse)** — Indoor cycling with route simulation and ride sync.
-- **[subconverter-rs](https://github.com/Liki4/subconverter-rs)** — Proxy subscription converter, rewritten in Rust.
-- **[go-telegram-forwarder-bot](https://github.com/Liki4/go-telegram-forwarder-bot)** — Multi-bot, two-way message forwarding for Telegram.
-- **[statuspage-telegram-monitor](https://github.com/Liki4/statuspage-telegram-monitor)** — Statuspage alerts to Telegram via Cloudflare Workers.
-- **[igpsport_to_intervals_icu](https://github.com/Liki4/igpsport_to_intervals_icu)** — Sync original iGPSPORT FIT files to Intervals.icu.
-- **[keep_virtual_ride_to_strava](https://github.com/Liki4/keep_virtual_ride_to_strava)** — Sync Keep indoor cycling workouts to Strava.
-- **[qodercli2api](https://github.com/Liki4/qodercli2api)** — Qoder CLI via OpenAI / Anthropic-compatible APIs.
-- **[y01and3/termius-export](https://github.com/y01and3/termius-export)** — Offline Termius export to OpenSSH, Tabby, and more.
-- **[KennelROMs/MartiniEvoX](https://github.com/KennelROMs/MartiniEvoX)** — Evolution X build tools for OnePlus 9RT (martini).
-- **[lxtsuddy/verify-code-relay](https://github.com/lxtsuddy/verify-code-relay)** — Forward email codes and sign-in links to Telegram.
-
 <details>
 
 <summary><h3>AS4242420927 is ALREADY DEEEEEAD...</h3></summary>
@@ -77,6 +60,13 @@ Extended Next-hop: Yes
 
 </details>
 
+### Contact
+
+[![Email](https://img.shields.io/badge/outlook-%230078D4.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liki4)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Liki4Switch)
+[![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/switch_kg)
+
 ### Technology Stack
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -114,11 +104,21 @@ Extended Next-hop: Yes
 [![Sublime](https://img.shields.io/badge/Sublime-%23FF9800.svg?&style=for-the-badge&logo=sublimetext&logoColor=white)](https://www.sublimetext.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED.svg?&style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
-### Contact
 
-[![Email](https://img.shields.io/badge/outlook-%230078D4.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrislikaiyuan@outlook.com)
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liki4)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Liki4Switch)
-[![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/switch_kg)
+### Some Fun Stuff :p
+
+- **[qnap-openlist-webdav](https://github.com/Liki4/qnap-openlist-webdav)** — OpenList packages for QNAP NAS.
+- **[CarAdb](https://github.com/Liki4/CarAdb)** — Rootless ADB over WireGuard for Android head units.
+- **[VeloVerse](https://github.com/Liki4/VeloVerse)** — Indoor cycling with route simulation and ride sync.
+- **[subconverter-rs](https://github.com/Liki4/subconverter-rs)** — Proxy subscription converter, rewritten in Rust.
+- **[go-telegram-forwarder-bot](https://github.com/Liki4/go-telegram-forwarder-bot)** — Multi-bot, two-way message forwarding for Telegram.
+- **[statuspage-telegram-monitor](https://github.com/Liki4/statuspage-telegram-monitor)** — Statuspage alerts to Telegram via Cloudflare Workers.
+- **[igpsport_to_intervals_icu](https://github.com/Liki4/igpsport_to_intervals_icu)** — Sync original iGPSPORT FIT files to Intervals.icu.
+- **[keep_virtual_ride_to_strava](https://github.com/Liki4/keep_virtual_ride_to_strava)** — Sync Keep indoor cycling workouts to Strava.
+- **[qodercli2api](https://github.com/Liki4/qodercli2api)** — Qoder OAuth to OpenAI / Anthropic-compatible APIs.
+- **[y01and3/termius-export](https://github.com/y01and3/termius-export)** — Offline Termius export to OpenSSH, Tabby, and more.
+- **[KennelROMs/MartiniEvoX](https://github.com/KennelROMs/MartiniEvoX)** — Evolution X build tools for OnePlus 9RT (martini).
+- **[lxtsuddy/verify-code-relay](https://github.com/lxtsuddy/verify-code-relay)** — Forward email codes and sign-in links to Telegram.
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Liki4)
